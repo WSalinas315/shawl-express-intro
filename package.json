@@ -1,0 +1,23 @@
+{
+  "name": "shawl-express-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WSalinas315/shawl-express-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WSalinas315/shawl-express-intro/issues"
+  },
+  "homepage": "https://github.com/WSalinas315/shawl-express-intro#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
